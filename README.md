@@ -1,10 +1,6 @@
 # MIMUW_2019S_DAV_HW3
 MIMUW 2019/20 Data Analysis and Visualisation Homework 3
 
-=====================================
-====     Animated plots part 2  =====
-=====================================
-
 Exercise 4
 
 We use again the same file from the World Bank:
@@ -63,10 +59,6 @@ Requirements:
 Expected result: 3 animated, color plots (gif)
 
 =====================================================================================
-
-=====================================
-====     Animated plots part 3  =====
-=====================================
 
 Exercise 5
 

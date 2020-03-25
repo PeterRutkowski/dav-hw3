@@ -10,7 +10,7 @@ data = pd.read_csv("data/data_I_B.csv")
 labels = np.asarray(data['country'])
 data = np.asarray(data.drop(['country'], axis=1))
 
-def plot(population, labels, year, colors):
+def plot(population, labels, year):
     # build the plot
     fig, ax = plt.subplots()
 
@@ -27,6 +27,8 @@ def plot(population, labels, year, colors):
                        fc=(1.0, 1.0, 1.0),
                        )
              )
+
+    colors = ['dodgerblue', 'orchid', 'green', 'darkorange', 'brown']
 
     bars = plt.bar(index, population, color=colors)
 
@@ -45,8 +47,6 @@ def plot(population, labels, year, colors):
     plt.close(fig)
 
 # sorting plot bars in ascending order
-colors = ['dodgerblue', 'orchid', 'green', 'darkorange', 'brown']
-
 last_index = len(data[0]) - 1
 last_input = []
 for i in range(5):
@@ -57,11 +57,9 @@ indices = np.argsort(last_input)
 
 sorted_pop = []
 sorted_lab = []
-sorted_col = []
 
 for i in range(len(indices)):
     sorted_lab.append(labels[indices[i]])
-    sorted_col.append(colors[indices[i]])
 
 population = []
 
@@ -71,7 +69,7 @@ for i in range(59):
     for k in range(len(indices)):
         sorted_pop.append(population[indices[k]])
 
-    plot(sorted_pop, sorted_lab, i+1960, sorted_col)
+    plot(sorted_pop, sorted_lab, i+1960)
 
     population = []
     sorted_pop = []

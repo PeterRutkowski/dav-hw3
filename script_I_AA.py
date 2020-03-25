@@ -41,7 +41,7 @@ def plot(population, labels, year, colors):
     plt.yticks(index_y, labels_y)
     plt.ylim(0, 1500000000)
     plt.tight_layout()
-    plt.savefig('I_AA/' + str(year)  + '.png', dpi=150)
+    plt.savefig('I_AA/' + str(year)  + '.png', dpi=200)
     plt.close(fig)
 
 # sorting plot bars in ascending order

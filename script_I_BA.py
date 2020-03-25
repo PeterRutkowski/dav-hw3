@@ -23,8 +23,8 @@ def plot(population, labels, year, colors):
     plt.text(0.75, 12500000.0, str(year), size=30,
              ha="right", va="top",
              bbox=dict(boxstyle="square",
-                       ec=(1., 0.5, 0.5),
-                       fc=(1., 0.8, 0.8),
+                       ec=(1.0, 1.0, 1.0),
+                       fc=(1.0, 1.0, 1.0),
                        )
              )
 

@@ -1,12 +1,14 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
 
-# import data
-# randomly generated year for Poland: 1971
-data = np.genfromtxt('data/data_C.csv', delimiter=',')
 # countries closest to Poland in 1971
 # ascending order in terms of population
-labels = ['Poland', 'Korea, Rep.', 'Spain', 'Egypt, Arab Rep.', 'Turkey']
+
+# import data
+data = pd.read_csv("data/data_I_C.csv")
+labels = np.asarray(data['country'])
+data = np.asarray(data.drop(['country'], axis=1))
 
 def plot(population, labels, year, colors):
     # build the plot
@@ -26,15 +28,20 @@ def plot(population, labels, year, colors):
                        )
              )
 
-    plt.bar(index, population, color=colors)
+    bars = plt.bar(index, population, color=colors)
+
+    for i in range(len(bars)):
+        yval = bars[i].get_height()
+        plt.text(bars[i].get_x()+0.25, yval + 1000000, labels[i])
+
     plt.ylabel('Population [million]')
-    plt.xticks(index, labels, rotation=45)
+    plt.xticks([])
     plt.title('The evolution of populations of countries that were most \n' +
               'similar population-wise to Poland in 1971')
     plt.yticks(index_y, labels_y)
     plt.ylim(0, 105000000)
     plt.tight_layout()
-    plt.savefig('C/' + str(year)  + '.png')
+    plt.savefig('plots/I_CA/' + str(year)  + '.png', dpi=200)
     plt.close(fig)
 
 # sorting plot bars in ascending order

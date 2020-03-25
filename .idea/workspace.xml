@@ -2,6 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb833bc-329a-4dea-819c-764e4dd7be11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/I_AA/1960.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1961.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1962.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1963.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1964.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1965.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1966.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1967.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1968.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1969.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1970.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1971.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1972.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1973.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1974.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1975.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1976.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1977.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1978.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1979.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1980.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1981.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1982.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1983.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1984.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1985.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1986.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1987.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1988.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1989.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1990.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1991.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1992.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1993.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1994.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1995.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1996.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1997.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1998.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/1999.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/I_AA/2018.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_B.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data_C.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/I_AA.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/script_B.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_I_BA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script_C.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/script_I_AA.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_I_AA.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +79,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script_I_AA.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+            <state relative-caret-position="119">
+              <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="18" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -27,9 +91,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trials.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/script_I_CA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -51,7 +122,9 @@
         <option value="$PROJECT_DIR$/script_A.py" />
         <option value="$PROJECT_DIR$/script_I_A.py" />
         <option value="$PROJECT_DIR$/trials.py" />
+        <option value="$PROJECT_DIR$/script_I_BA.py" />
         <option value="$PROJECT_DIR$/script_I_AA.py" />
+        <option value="$PROJECT_DIR$/script_I_CA.py" />
       </list>
     </option>
   </component>
@@ -102,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.script_A">
+  <component name="RunManager" selected="Python.script_I_CA">
     <configuration name="script_A" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mimuw_2019s_dav_hw3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,6 +189,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_I_AA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script_I_BA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mimuw_2019s_dav_hw3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_I_BA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script_I_CA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mimuw_2019s_dav_hw3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_I_CA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,6 +283,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.script_I_CA" />
+        <item itemvalue="Python.script_I_BA" />
         <item itemvalue="Python.script_A" />
         <item itemvalue="Python.trials" />
         <item itemvalue="Python.trial" />
@@ -209,7 +326,7 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.4313253" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.2879518" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -249,16 +366,39 @@
     <entry file="file://$PROJECT_DIR$/trial.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/data_I_A.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/trials.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/data_I_B.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/data_I_A.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script_I_BA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/script_I_AA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="43" column="54" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
+        <state relative-caret-position="119">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script_I_CA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="35" column="8" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>

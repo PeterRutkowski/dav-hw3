@@ -2,13 +2,13 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+# most populous countries in 1960
+# ascending order in terms of population
+
 # import data
 data = pd.read_csv("data/data_I_A.csv")
 labels = np.asarray(data['country'])
 data = np.asarray(data.drop(['country'], axis=1))
-
-# most populous countries in 1960
-# ascending order in terms of population
 
 def plot(population, labels, year, colors):
     # build the plot
@@ -28,7 +28,6 @@ def plot(population, labels, year, colors):
                        )
              )
 
-
     bars = plt.bar(index, population, color=colors)
 
     for i in range(len(bars)):
@@ -41,7 +40,7 @@ def plot(population, labels, year, colors):
     plt.yticks(index_y, labels_y)
     plt.ylim(0, 1500000000)
     plt.tight_layout()
-    plt.savefig('I_AA/' + str(year)  + '.png', dpi=200)
+    plt.savefig('plots/I_AA/' + str(year)  + '.png', dpi=200)
     plt.close(fig)
 
 # sorting plot bars in ascending order

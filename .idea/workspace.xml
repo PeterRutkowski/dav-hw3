@@ -100,7 +100,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.trials">
+  <component name="RunManager" selected="Python.script_A">
     <configuration name="script_A" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mimuw_2019s_dav_hw3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,8 +166,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.trials" />
         <item itemvalue="Python.script_A" />
+        <item itemvalue="Python.trials" />
         <item itemvalue="Python.trial" />
       </list>
     </recent_temporary>

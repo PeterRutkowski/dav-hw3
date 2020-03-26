@@ -26,9 +26,9 @@ def plot(time, population, density, labels):
                        )
              )
 
-
     for i in range(len(population)):
         plt.text(time[i] - 1.77, population[i] - 180000, labels[i])
+        
     plt.ylabel('Population [million]')
     plt.ylim(2000000, 13000000)
     plt.xlim(1955, 2025)
@@ -37,8 +37,6 @@ def plot(time, population, density, labels):
     plt.savefig('plots/II_B/' + str(time[0]) + '.png', dpi=200)
     plt.clf()
     return
-
-gif = []
 
 for i in range(59):
     for j in range(5):

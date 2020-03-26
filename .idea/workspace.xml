@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdb833bc-329a-4dea-819c-764e4dd7be11" name="Default Changelist" comment="" />
+    <list default="true" id="fdb833bc-329a-4dea-819c-764e4dd7be11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script_II_B.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_II_B.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/II_B.py">
+        <entry file="file://$PROJECT_DIR$/script_II_B.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+            <state relative-caret-position="450">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -51,6 +54,7 @@
         <option value="$PROJECT_DIR$/script_I_CA.py" />
         <option value="$PROJECT_DIR$/script_I_AA.py" />
         <option value="$PROJECT_DIR$/II_B.py" />
+        <option value="$PROJECT_DIR$/script_II_B.py" />
       </list>
     </option>
   </component>
@@ -82,12 +86,6 @@
               <item name="mimuw_2019s_dav_hw3" type="b2602c69:ProjectViewProjectNode" />
               <item name="mimuw_2019s_dav_hw3" type="462c0819:PsiDirectoryNode" />
               <item name="plots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mimuw_2019s_dav_hw3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mimuw_2019s_dav_hw3" type="462c0819:PsiDirectoryNode" />
-              <item name="plots" type="462c0819:PsiDirectoryNode" />
-              <item name="II_B" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -260,7 +258,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50120485" side_tool="true" weight="0.34390417" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49879518" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49879518" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" sideWeight="0.502693" side_tool="true" weight="0.34390417" />
       <window_info id="Terminal" order="3" sideWeight="0.497307" weight="0.34390417" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32891566" />
@@ -268,7 +266,7 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3385542" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3385542" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -412,8 +410,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/II_B.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script_II_B.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>

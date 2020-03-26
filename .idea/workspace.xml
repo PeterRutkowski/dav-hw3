@@ -1,189 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdb833bc-329a-4dea-819c-764e4dd7be11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1960.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1960.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1961.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1961.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1962.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1962.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1963.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1963.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1964.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1964.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1965.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1965.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1966.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1966.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1967.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1967.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1968.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1968.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1969.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1969.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1970.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1970.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1971.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1971.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1972.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1972.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1973.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1973.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1974.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1974.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1975.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1975.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1976.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1976.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1977.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1977.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1978.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1978.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1979.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1979.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1980.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1980.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1981.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1981.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1982.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1982.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1983.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1983.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1984.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1984.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1985.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1985.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1986.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1986.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1987.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1987.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1988.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1988.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1989.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1989.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1990.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1990.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1991.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1991.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1992.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1992.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1993.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1993.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1994.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1994.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1995.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1995.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1996.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1996.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1997.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1997.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1998.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1998.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/1999.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/1999.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2000.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2001.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2002.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2002.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2003.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2003.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2004.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2004.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2005.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2005.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2006.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2006.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2007.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2007.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2008.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2008.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2009.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2009.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2010.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2010.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2011.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2011.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2012.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2012.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2013.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2013.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2014.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2014.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2015.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2015.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2016.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2016.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2017.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2017.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_AA/2018.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_AA/2018.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1960.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1960.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1961.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1961.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1962.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1962.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1963.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1963.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1964.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1964.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1965.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1965.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1966.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1966.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1967.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1967.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1968.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1968.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1969.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1969.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1970.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1970.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1971.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1971.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1972.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1972.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1973.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1973.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1974.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1974.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1975.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1975.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1976.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1976.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1977.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1977.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1978.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1978.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1979.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1979.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1980.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1980.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1981.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1981.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1982.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1982.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1983.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1983.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1984.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1984.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1985.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1985.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1986.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1986.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1987.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1987.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1988.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1988.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1989.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1989.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1990.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1990.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1991.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1991.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1992.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1992.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1993.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1993.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1994.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1994.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1995.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1995.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1996.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1996.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1997.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1997.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1998.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1998.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/1999.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/1999.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2000.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2001.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2002.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2002.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2003.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2003.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2004.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2004.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2005.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2005.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2006.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2006.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2007.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2007.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2008.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2008.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2009.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2009.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2010.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2010.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2011.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2011.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2012.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2012.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2013.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2013.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2014.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2014.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2015.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2015.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2016.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2016.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2017.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2017.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_BA/2018.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_BA/2018.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1960.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1960.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1961.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1961.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1962.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1962.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1963.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1963.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1964.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1964.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1965.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1965.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1966.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1966.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1967.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1967.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1968.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1968.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1969.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1969.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1970.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1970.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1971.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1971.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1972.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1972.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1973.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1973.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1974.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1974.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1975.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1975.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1976.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1976.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1977.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1977.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1978.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1978.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1979.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1979.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1980.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1980.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1981.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1981.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1982.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1982.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1983.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1983.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1984.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1984.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1985.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1985.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1986.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1986.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1987.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1987.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1988.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1988.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1989.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1989.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1990.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1990.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1991.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1991.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1992.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1992.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1993.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1993.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1994.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1994.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1995.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1995.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1996.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1996.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1997.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1997.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1998.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1998.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/1999.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/1999.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2000.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2001.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2002.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2002.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2003.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2003.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2004.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2004.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2005.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2005.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2006.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2006.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2007.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2007.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2008.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2008.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2009.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2009.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2010.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2010.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2011.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2011.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2012.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2012.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2013.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2013.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2014.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2014.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2015.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2015.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2016.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2016.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2017.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2017.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plots/I_CA/2018.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/I_CA/2018.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script_I_AA.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_I_AA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script_I_BA.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_I_BA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script_I_CA.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_I_CA.py" afterDir="false" />
-    </list>
+    <list default="true" id="fdb833bc-329a-4dea-819c-764e4dd7be11" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,12 +12,24 @@
     <favorites_list name="mimuw_2019s_dav_hw3" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/script_I_CA.py">
+        <entry file="file://$PROJECT_DIR$/II_B.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="212">
+              <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script_I_BA.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="69" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -232,10 +62,11 @@
         <option value="$PROJECT_DIR$/script_I_BA.py" />
         <option value="$PROJECT_DIR$/script_I_CA.py" />
         <option value="$PROJECT_DIR$/script_I_AA.py" />
+        <option value="$PROJECT_DIR$/II_B.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -247,7 +78,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -269,11 +99,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/plots/II_B" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -287,7 +123,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.script_I_CA">
+  <component name="RunManager" selected="Python.II_B">
+    <configuration name="II_B" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mimuw_2019s_dav_hw3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/II_B.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="script_A" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mimuw_2019s_dav_hw3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -322,27 +179,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_I_BA.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="script_I_BB" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mimuw_2019s_dav_hw3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_I_BB.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,11 +231,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.II_B" />
         <item itemvalue="Python.script_I_CA" />
         <item itemvalue="Python.script_I_BA" />
         <item itemvalue="Python.script_A" />
         <item itemvalue="Python.script_I_CB" />
-        <item itemvalue="Python.script_I_BB" />
       </list>
     </recent_temporary>
   </component>
@@ -473,11 +309,23 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/trial.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/trial.py" />
     <entry file="file://$PROJECT_DIR$/trials.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -517,30 +365,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script_I_AA.py">
+    <entry file="file://$PROJECT_DIR$/script_I_CA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        <state relative-caret-position="423">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/II_B/II_B.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/final/I_AB.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script_I_AA.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plots/final/I_BA.gif">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/script_I_BA.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="138">
+          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="69" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/script_I_CA.py">
+    <entry file="file://$PROJECT_DIR$/II_B.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="212">
+          <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>

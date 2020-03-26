@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.animation as animation
 import pandas as pd
 
 # most populous countries in 1960 in terms of population

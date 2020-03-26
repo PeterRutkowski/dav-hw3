@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+# countries closest to Hong Kong in 1985 in terms of population
+
 # import data
 data = pd.read_csv("data/data_I_B.csv")
 labels = np.asarray(data['country'])
@@ -9,10 +11,6 @@ data = np.asarray(data.drop(['country'], axis=1))
 
 # country area in km2
 country_area = [619745, 42933, 49035, 245857, 1106]
-
-time = []
-population = []
-density = []
 
 def plot(time, population, density, labels):
     colors = ['dodgerblue', 'orchid', 'green', 'darkorange', 'brown']
@@ -29,6 +27,8 @@ def plot(time, population, density, labels):
     for i in range(len(population)):
         plt.text(time[i] - 1.77, population[i] - 180000, labels[i])
 
+    plt.title('The evolution of populations and population densities of countries\n'
+              'that were most similar population-wise to Hong Kong in 1984')
     plt.ylabel('Population [million]')
     plt.ylim(2000000, 13000000)
     plt.xlim(1955, 2025)
@@ -37,6 +37,10 @@ def plot(time, population, density, labels):
     plt.savefig('plots/II_B/' + str(time[0]) + '.png', dpi=200)
     plt.clf()
     return
+
+time = []
+population = []
+density = []
 
 for i in range(59):
     for j in range(5):

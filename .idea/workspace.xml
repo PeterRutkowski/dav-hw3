@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdb833bc-329a-4dea-819c-764e4dd7be11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/plots/IV/IV_color.png" beforeDir="false" afterPath="$PROJECT_DIR$/plots/IV/IV_color.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/IV/IV_color.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/report/IV_color.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/script_IV_A.py" beforeDir="false" afterPath="$PROJECT_DIR$/script_IV_A.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +20,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/script_IV_A.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="67" column="56" selection-start-line="67" selection-start-column="56" selection-end-line="67" selection-end-column="56" />
+            <state relative-caret-position="509">
+              <caret line="91" column="30" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/plots/IV/IV_color.png">
+        <entry file="file://$PROJECT_DIR$/plots/IV/IV_colour.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -103,6 +104,12 @@
               <item name="mimuw_2019s_dav_hw3" type="b2602c69:ProjectViewProjectNode" />
               <item name="mimuw_2019s_dav_hw3" type="462c0819:PsiDirectoryNode" />
               <item name="plots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mimuw_2019s_dav_hw3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mimuw_2019s_dav_hw3" type="462c0819:PsiDirectoryNode" />
+              <item name="plots" type="462c0819:PsiDirectoryNode" />
+              <item name="IV" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -274,7 +281,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.50120485" side_tool="true" weight="0.34390417" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.49879518" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49879518" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" sideWeight="0.502693" side_tool="true" weight="0.34390417" />
       <window_info id="Terminal" order="3" sideWeight="0.497307" weight="0.34390417" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32891566" />
@@ -282,7 +289,7 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.21445782" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.21445782" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -488,14 +495,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/plots/IV/IV_color.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/script_IV_A.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="67" column="56" selection-start-line="67" selection-start-column="56" selection-end-line="67" selection-end-column="56" />
+        <state relative-caret-position="509">
+          <caret line="91" column="30" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plots/IV/IV_color.png">
+    <entry file="file://$PROJECT_DIR$/plots/IV/IV_colour.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
   </component>

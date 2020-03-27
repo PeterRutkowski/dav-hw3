@@ -89,4 +89,4 @@ ax.grid(True)
 plt.xticks(rotation=45, size=5)
 plt.tight_layout()
 
-plt.savefig('plots/IV/IV_A.png', dpi=400)
+plt.savefig('plots/IV/IV_colour.png', dpi=400)
